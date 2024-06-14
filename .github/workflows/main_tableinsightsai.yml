@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'TableInsightsAI'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7E07EE9D1C7B43D087A3B8F235161C52 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_ECBEFDFF9AF34C2FABEF137BC2E79701 }}
